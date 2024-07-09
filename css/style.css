@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  padding-top: 50px;
+}
+.main{
+    background-color: grey;
+    height:200px;
+    padding-top: 10px;
+    width:600px;
+}
